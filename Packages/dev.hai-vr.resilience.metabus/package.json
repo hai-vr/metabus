@@ -1,7 +1,7 @@
 {
   "name": "dev.hai-vr.resilience.metabus",
   "displayName": "Haï ~ Resilience Metabus",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "unity": "2019.4",
   "description": "Resilience Metabus",
   "vrchatVersion" : "2022.1.1",
